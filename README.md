@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer and creator with a wide
 
 🌱 I'm constantly learning and staying up-to-date with the latest technologies. Whether it's exploring new libraries, frameworks, or design tools, I love the process of learning and improving my skills.
 
-🤔 I'm always open to help and mentor others in areas I'm experienced in, such as web development, game development, and 3D design.
+🤔 I'm always open to help and mentor others in areas I'm experienced in, such as mobile development, game development, and 3D design.
 
 ⚡ Fun fact: I'm not just a developer; I'm also an avid video game enthusiast, and I enjoy video editing and content creation. I love combining creativity with technology to build amazing experiences.
 
