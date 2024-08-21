@@ -10,6 +10,13 @@ Welcome to my GitHub profile! I'm a passionate developer and creator with a wide
 
 ⚡ Fun fact: I'm not just a developer; I'm also an avid video game enthusiast, and I enjoy video editing and content creation. I love combining creativity with technology to build amazing experiences.
 
+<a href="https://koceiladrk.netlify.app">
+    <img src="https://github.com/user-attachments/assets/737299e2-152d-4c45-b7bd-cd4d281863fa" alt="My Portfolio" />
+</a>
+
+ 
+
+
 ## Tech Stack
 
 <p align="center"><img src="https://skillicons.dev/icons?i=blender,css,electron,fastapi,react,figma,firebase,gamemakerstudio,godot,html,java,js,md,materialui,mongodb,nextjs,nodejs,py,react,redux,sqlite,supabase,tailwind,ts,unity,visualstudio,vscode&perline=8" alt="Skills (SkillIcons.DEV)">
